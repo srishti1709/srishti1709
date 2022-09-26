@@ -17,7 +17,7 @@
   
 ### <img src="https://img.icons8.com/emoji/48/000000/woman-technologyst.png"/> More about me:
   
-I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem Solving and a Robotics Enthusiast. I also have my hands on technologies like <b>Python</b>, <b>MatLab</b> and <b>Machine Learning</b>. Industry professional with 3+ Years experience, worked as a **Production Planner in GE Power Manufacturing** unit with a proven track record of managing skills.Feel free to reach out to me on LinkedIn (super active there)!
+I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem Solving and also a Robotics Enthusiast. I also have my hands on technologies like <b>Python</b>, <b>MatLab</b> and <b>Machine Learning</b> and <b>Deep Learning<b/>.Industry professional with 3+ Years experience, worked as a **Production Planner in GE Power Manufacturing** unit with a proven track record of managing skills. I like challenging roles and responsibilities with innovative bent of approach and technology.Feel free to reach out to me on LinkedIn (super active there)!
   
 ### :1st_place_medal: Some of my acheivements:
 
@@ -42,6 +42,11 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/NH32GXR8EJTV" target="_blank"><b>Advanced Manufacturing Process Analysis</b></a>. 
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/5DESAM6MRW6L" target="_blank"><b>Digital Thread: Implementation
 </b></a>. 
+ 
+ ### Hobbies: <br/>
+ :musical_note: Music<br/>
+ :writing_hand: Writing<br/>
+ :woman_singer: Singing<br/>
  
   
 #### 👨🏻‍💻 Languages and Tools: <br />
