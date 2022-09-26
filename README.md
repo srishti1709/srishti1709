@@ -49,7 +49,7 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
  :woman_singer: Singing<br/>
  
   
-#### 👨🏻‍💻 Languages and Tools: <br />
+#### :woman_technologist: Languages and Tools: <br />
 <code><img height="40" src="python.png"></code>
 <code><img height="40" src="/Matlab.png"></code>
 <code><img height="40" src="/ML.png"></code>
