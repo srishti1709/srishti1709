@@ -25,8 +25,8 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 * Best paper award :- Awarded the best paper reward for the event Luminesce 2017 organised by ISLE.
 * Secured 1st place in College's Final Year Project.
 
-
-
+</br>
+</br>
 - ⚡ I’m currently a **Master's Student**:mortar_board: at <a href = "https://www.ncsu.edu/" target="_blank"><b>North California State University</b></a>. 
 - 💬 Ask me about <b>Python, ML, Electrical, and DL .</b>
 - <a href = "" target="_blank"><b>RESUME</b></a>.
