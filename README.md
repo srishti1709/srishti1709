@@ -27,8 +27,8 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 
 </br>
 </br>
-⚡ I’m currently a **Master's Student**:mortar_board: at <a href = "https://www.ncsu.edu/" target="_blank"><b>North California State University</b></a>.</br> 
-💬 Ask me about <b>Python, ML, Electrical, and DL .</b></br>
+⚡ I’m currently a <b>Master's Student</b> :mortar_board: at <a href = "https://www.ncsu.edu/" target="_blank"><b>North California State University</b></a>.</br> 
+💬 Ask me about <b>Python, Machine Learning, Electrical and Deep Learning .</b></br>
   &nbsp; &nbsp; &nbsp;  <a href = "" target="_blank"><b>RESUME</b></a>.
   
   
