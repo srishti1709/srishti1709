@@ -11,7 +11,7 @@
  
   
   
-### Pronouns - She/Her 
+:girl: ### Pronouns - She/Her/Hers
   
 ### <img src="https://img.icons8.com/emoji/48/000000/man-technologyst.png"/> More about me:
   
@@ -19,8 +19,8 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
   
 ### :1st_place_medal: Some of my acheivements:
 
-* Top 8 national finalists for the event Go Green In the city 2018 organized by Schneider electric
-* Best paper award.
+* **Top 8 national finalists for the event Go Green In the city 2018 organized by Schneider Electric**
+* Best paper award :- Awarded the best paper reward for the event Luminesce 2017 organised by ISLE.
 * Secured 1st place in College's Final Year Project.
 
 
@@ -29,6 +29,14 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 - 💬 Ask me about <b>Python, ML, .</b>
 - <a href = "" target="_blank"><b>RESUME</b>(Not the updatedOne)</a>.
   
+  
+ ### :page_facing_up: Course & Certifications: <br/>
+ 
+* Digital Manufacturing & Design Technology Specialization
+* <a href = "https://www.coursera.org/account/accomplishments/certificate/UUQUH4PUY5WZ" target="_blank"><b>Advanced Manufacturing Enterprise</b></a>. 
+* <a href = "https://www.coursera.org/account/accomplishments/certificate/FQGW6JW5WXLU" target="_blank"><b>Intelligent Machining</b></a>. 
+* <a href = "https://www.coursera.org/account/accomplishments/certificate/RHP94LTFWAMW" target="_blank"><b>Cyber Security in Manufacturing</b></a>. 
+ 
   
 #### 👨🏻‍💻 Languages and Tools: <br />
 <code><img height="40" src="python.png"></code>
