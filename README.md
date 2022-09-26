@@ -36,7 +36,6 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/UUQUH4PUY5WZ" target="_blank"><b>Advanced Manufacturing Enterprise</b></a>. 
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/FQGW6JW5WXLU" target="_blank"><b>Intelligent Machining</b></a>. 
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/RHP94LTFWAMW" target="_blank"><b>Cyber Security in Manufacturing</b></a>. 
-* 
 *  <a href = "https://www.coursera.org/account/accomplishments/specialization/certificate/9JUAV9KRE5Q7" target="_blank"><b>Digital Manufacturing & Design Technology</b></a>. 
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/NH32GXR8EJTV" target="_blank"><b>Advanced Manufacturing Process Analysis</b></a>. 
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/5DESAM6MRW6L" target="_blank"><b>Digital Thread: Implementation
