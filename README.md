@@ -29,7 +29,7 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 </br>
 ⚡ I’m currently a **Master's Student**:mortar_board: at <a href = "https://www.ncsu.edu/" target="_blank"><b>North California State University</b></a>.</br> 
 💬 Ask me about <b>Python, ML, Electrical, and DL .</b></br>
-<a href = "" target="_blank"><b>RESUME</b></a>.
+   <a href = "" target="_blank"><b>RESUME</b></a>.
   
   
  ### :page_with_curl: **Publication**
