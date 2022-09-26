@@ -32,6 +32,16 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 - <a href = "" target="_blank"><b>RESUME</b></a>.
   
   
+ ### page_with_curl **Publication**
+  **Global shift towards a low carbon energy future with proper space managementGlobal shift towards a low carbon energy future with proper space management
+  ISLE proceedings · Apr 1, 2017**
+  
+  Other authors :woman_teacher: 
+  Sakshi Singh :woman:</br>
+  Twinkle Jaiswal :woman:
+  
+
+  
  ### :page_facing_up: Course & Certifications: <br/>
  
 * Digital Manufacturing & Design Technology Specialization
