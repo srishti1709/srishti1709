@@ -11,9 +11,9 @@
  
   
   
-:girl: ### Pronouns - She/Her/Hers
+:girl: Pronouns - She/Her/Hers
   
-### <img src="https://img.icons8.com/emoji/48/000000/man-technologyst.png"/> More about me:
+### <img src="https://img.icons8.com/emoji/48/000000/woman-technologyst.png"/> More about me:
   
 I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem Solving and a Robotics Enthusiast. I also have my hands on technologies like <b>Python</b>, <b>MatLab</b>, <b>Machine Learning</b>. Industry professional with 3+ Years experience, worked as a **Production Planner in GE Power Manufacturing** unit with a proven track record of managing skills.Feel free to reach out to me on LinkedIn (super active there)!
   
@@ -36,6 +36,11 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/UUQUH4PUY5WZ" target="_blank"><b>Advanced Manufacturing Enterprise</b></a>. 
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/FQGW6JW5WXLU" target="_blank"><b>Intelligent Machining</b></a>. 
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/RHP94LTFWAMW" target="_blank"><b>Cyber Security in Manufacturing</b></a>. 
+* 
+*  <a href = "https://www.coursera.org/account/accomplishments/specialization/certificate/9JUAV9KRE5Q7" target="_blank"><b>Digital Manufacturing & Design Technology</b></a>. 
+* <a href = "https://www.coursera.org/account/accomplishments/certificate/NH32GXR8EJTV" target="_blank"><b>Advanced Manufacturing Process Analysis</b></a>. 
+* <a href = "https://www.coursera.org/account/accomplishments/certificate/5DESAM6MRW6L" target="_blank"><b>Digital Thread: Implementation
+</b></a>. 
  
   
 #### 👨🏻‍💻 Languages and Tools: <br />
