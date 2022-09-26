@@ -2,11 +2,13 @@
 <img align='right' src='EntryPic.png' width='350", height = "200"'>
 
 # Hi there👋 , I am Srishti
-  
+
+  ## Connect with Me 🤝🏻
+
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/srishti-choudhury-6b6064132/)
-  <!-- [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>]() -->
   <a href="srishtigrad95@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
   [<img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="3.5%"/>](https://github.com/srishti1709)
+    <!-- [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>]() -->
   <!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="3.5%"/>](https://leetcode.com/shubhamverma2604/) -->
  
   
@@ -15,7 +17,7 @@
   
 ### <img src="https://img.icons8.com/emoji/48/000000/woman-technologyst.png"/> More about me:
   
-I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem Solving and a Robotics Enthusiast. I also have my hands on technologies like <b>Python</b>, <b>MatLab</b>, <b>Machine Learning</b>. Industry professional with 3+ Years experience, worked as a **Production Planner in GE Power Manufacturing** unit with a proven track record of managing skills.Feel free to reach out to me on LinkedIn (super active there)!
+I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem Solving and a Robotics Enthusiast. I also have my hands on technologies like <b>Python</b>, <b>MatLab</b> and <b>Machine Learning</b>. Industry professional with 3+ Years experience, worked as a **Production Planner in GE Power Manufacturing** unit with a proven track record of managing skills.Feel free to reach out to me on LinkedIn (super active there)!
   
 ### :1st_place_medal: Some of my acheivements:
 
