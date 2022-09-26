@@ -33,7 +33,7 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
   
   
  ### :page_with_curl: **Publication**
-  &nbsp; &nbsp;  &nbsp; &nbsp;**Global shift towards a low carbon energy future with proper space management Global shift towards a low carbon energy future with         &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;proper space management ISLE proceedings · Apr 1, 2017**
+  &nbsp; &nbsp;  &nbsp; &nbsp;**Global shift towards a low carbon energy future with proper space management Global shift towards a low carbon energy future with         &nbsp; proper space management ISLE proceedings · Apr 1, 2017**
   
    &nbsp; &nbsp;   &nbsp; &nbsp;  Other authors :woman_teacher:</br> 
    &nbsp; &nbsp;   &nbsp; &nbsp;  Sakshi Singh :woman:</br>
