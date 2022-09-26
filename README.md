@@ -23,12 +23,15 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 * Best paper award.
 * Secured 1st place in College's Final Year Project.
 
+
+
 - ⚡ I’m currently a **Master's Student**:mortar_board: at **North California State University**. 
 - 💬 Ask me about <b>Python, ML, .</b>
 - <a href = "" target="_blank"><b>RESUME</b>(Not the updatedOne)</a>.
   
+  
 #### 👨🏻‍💻 Languages and Tools: <br />
-<code><img height="40" src="/python.png"></code>
+<code><img height="40" src="python.png"></code>
 <code><img height="40" src="/Matlab.png"></code>
 <code><img height="40" src="/ML.png"></code>
 <code><img height="40" src="/pandas.png"></code>
