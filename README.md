@@ -32,7 +32,7 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 - <a href = "" target="_blank"><b>RESUME</b></a>.
   
   
- ### page_with_curl **Publication**
+ ### :page_with_curl: **Publication**
   **Global shift towards a low carbon energy future with proper space managementGlobal shift towards a low carbon energy future with proper space management
   ISLE proceedings · Apr 1, 2017**
   
