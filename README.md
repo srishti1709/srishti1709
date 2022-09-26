@@ -25,9 +25,9 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 
 
 
-- ⚡ I’m currently a **Master's Student**:mortar_board: at **North California State University**. 
+- ⚡ I’m currently a **Master's Student**:mortar_board: at <a href = "https://www.ncsu.edu/" target="_blank"><b>North California State University</b></a>. 
 - 💬 Ask me about <b>Python, ML, .</b>
-- <a href = "" target="_blank"><b>RESUME</b>(Not the updatedOne)</a>.
+- <a href = "" target="_blank"><b>RESUME</b></a>.
   
   
  ### :page_facing_up: Course & Certifications: <br/>
