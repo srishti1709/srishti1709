@@ -35,7 +35,7 @@ I am an **Electrical Engineering**:mortar_board: by Degree . I am into Problem S
 <code><img height="40" src="/Matlab.png"></code>
 <code><img height="40" src="/ML.png"></code>
 <code><img height="40" src="/pandas.png"></code>
-<code><img height="40" src="/Tensorflow.svg"></code>
+<code><img height="40" src="/Tensorflow_logo.jpg"></code>
 <code><img height="40" src="/nlp.jpg"></code>
 <code><img height="40" src="/openCV.png"></code>
 <code><img height="40" src="/computerVision.png"></code>
