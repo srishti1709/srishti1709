@@ -17,7 +17,7 @@
   
 ### <img src="https://img.icons8.com/emoji/48/000000/woman-technologyst.png"/> More about me:
   
-I am an **Electrical Engineering**:mortar_board: by Degree. Industry professional with 3+ Years experience, worked as a **Production Planner in GE Power Manufacturing** unit with a proven track record of managing skills. I like challenging roles and responsibilities with innovative bent of approach and technology I am into Problem Solving and also a Robotics Enthusiast. I also have my hands on technologies like <b>Python</b>, <b>MatLab</b>,<b>Machine Learning</b> and <b>Deep Learning<b/>.Feel free to reach out to me on LinkedIn (active there)!
+I am an **Electrical Engineering**:mortar_board: by Degree. Industry professional with 3+ Years experience, worked as a **Production Planner in GE Power Manufacturing** unit with a proven track record of managing skills. I like challenging roles and responsibilities with innovative bent of approach and technology. I am into Problem Solving and also a Robotics Enthusiast. I also have my hands on technologies like <b>Python</b>, <b>MatLab</b>,<b>Machine Learning</b> and <b>Deep Learning<b/>.Feel free to reach out to me on LinkedIn (active there)!
   
 ### :1st_place_medal: Some of my acheivements:
 
