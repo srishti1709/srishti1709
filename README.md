@@ -54,6 +54,7 @@ I am an **Electrical Engineering**:mortar_board: by Degree. Industry professiona
 </b></a>. 
  
  ### Hobbies: <br/>
+ 🏸Badminton<br/>
  :musical_note: Music<br/>
  :writing_hand: Writing<br/>
  :woman_singer: Singing<br/>
