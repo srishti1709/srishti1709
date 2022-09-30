@@ -44,7 +44,7 @@ I am an **Electrical Engineering**:mortar_board: by Degree. Industry professiona
   
  ### :page_facing_up: Courses & Certifications: <br/>
  
-* Digital Manufacturing & Design Technology Specialization (Associated with GE Power)&nbsp; <img height="25" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGkrFXAvgJRTA/company-logo_100_100/0/1658165842992?e=1672272000&v=beta&t=SdCgERLfALwD0aGvf2gaGa2WED_NXDWGEm4bcGisS3I">
+* Digital Manufacturing & Design Technology Specialization.
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/UUQUH4PUY5WZ" target="_blank"><b>Advanced Manufacturing Enterprise</b></a>. 
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/FQGW6JW5WXLU" target="_blank"><b>Intelligent Machining</b></a>. 
 * <a href = "https://www.coursera.org/account/accomplishments/certificate/RHP94LTFWAMW" target="_blank"><b>Cyber Security in Manufacturing</b></a>. 
