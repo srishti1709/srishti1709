@@ -9,7 +9,7 @@
   <a href="srishtigrad95@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
   [<img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="3.5%"/>](https://github.com/srishti1709)
     <!-- [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>]() -->
-  <!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="3.5%"/>](https://leetcode.com/shubhamverma2604/) -->
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="3.5%"/>](https://leetcode.com/srishtigrad95/)
  
   
   
